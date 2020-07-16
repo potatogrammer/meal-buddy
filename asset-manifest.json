@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/meal-buddy/static/css/main.66db7e6f.chunk.css",
+    "main.css": "/meal-buddy/static/css/main.ce1ae68c.chunk.css",
     "main.js": "/meal-buddy/static/js/main.2ea2b872.chunk.js",
     "main.js.map": "/meal-buddy/static/js/main.2ea2b872.chunk.js.map",
     "runtime-main.js": "/meal-buddy/static/js/runtime-main.be3032d4.js",
@@ -8,15 +8,15 @@
     "static/js/2.9a177f15.chunk.js": "/meal-buddy/static/js/2.9a177f15.chunk.js",
     "static/js/2.9a177f15.chunk.js.map": "/meal-buddy/static/js/2.9a177f15.chunk.js.map",
     "index.html": "/meal-buddy/index.html",
-    "precache-manifest.9839a43168d119bce3aaee789c95f689.js": "/meal-buddy/precache-manifest.9839a43168d119bce3aaee789c95f689.js",
+    "precache-manifest.bc5204eb1155d91dd15fb5341e71b95f.js": "/meal-buddy/precache-manifest.bc5204eb1155d91dd15fb5341e71b95f.js",
     "service-worker.js": "/meal-buddy/service-worker.js",
-    "static/css/main.66db7e6f.chunk.css.map": "/meal-buddy/static/css/main.66db7e6f.chunk.css.map",
+    "static/css/main.ce1ae68c.chunk.css.map": "/meal-buddy/static/css/main.ce1ae68c.chunk.css.map",
     "static/js/2.9a177f15.chunk.js.LICENSE.txt": "/meal-buddy/static/js/2.9a177f15.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.be3032d4.js",
     "static/js/2.9a177f15.chunk.js",
-    "static/css/main.66db7e6f.chunk.css",
+    "static/css/main.ce1ae68c.chunk.css",
     "static/js/main.2ea2b872.chunk.js"
   ]
 }
